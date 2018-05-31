@@ -1,0 +1,6 @@
+{
+    "endpoints": {
+        "admin": "http://localhost:8060/",
+        "api": "http://localhost:8060/"
+    }
+}
