@@ -1,0 +1,168 @@
+/*
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+*/
+
+@import './theme.scss';
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+a, .cp {
+  cursor: pointer;
+}
+
+mat-card {
+    padding: 16px;
+}
+
+.section-title {
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: 300;
+  padding: 1em 0 0;
+    margin: 16px;
+}
+
+.section-subtitle {
+    text-align: left;
+    font-size: 1em;
+    font-weight: 300;
+    padding: 1em 0 0;
+    margin: 16px;
+    color:#888888;
+}
+.flex-spacer {
+  flex-grow: 1;
+}
+
+.progress-spinner {
+  height: 60px !important;
+  margin: 2em auto;
+}
+
+snack-bar-container {
+  background: #3f51b5 !important;
+}
+
+.mat-menu-content {
+  background: #3f51b5;
+}
+
+.mat-menu-item, .mat-menu-item .mat-icon {
+  color: white;
+  font-weight: 100;
+}
+
+.hero-actions {
+  align-items: center;
+  display: flex;
+  padding-bottom: 1em;
+}
+
+.like-icon {
+  color: #DC143C;
+  cursor: pointer;
+}
+
+.details-icon {
+  color: #DC143C;
+  cursor: pointer;
+  max-width: 24px;
+}
+
+.mat-raised-button[disabled] {
+  background: #bbb !important;
+}
+
+.cancel-button {
+    color: #bbbbbb !important;
+}
+/*
+.mat-dialog-container {
+  background: #3f51b5;
+  color: white;
+}
+*/
+
+.mat-dialog-content {
+  text-align: center;
+  padding: 1em 24px !important;
+}
+
+.mat-dialog-title {
+  text-align: center;
+}
+
+.hero-header-image {
+  background-size: cover;
+}
+
+.mat-card-image {
+  margin-bottom: -28px !important;
+  border-top: 1px solid #eee;
+}
+
+.mat-list-avatar {
+  height: 55px !important;
+  width: 55px !important;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.input-container {
+  min-width: 250px;
+  max-width: 500px;
+}
+
+.input-article-container {
+    width: 68%;
+    margin-right: 8px;
+}
+
+.input-duration-container {
+    width: 15%;
+}
+
+.input-unit-price-container {
+    width: 15%;
+}
+
+.card-content-block{
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.button-default {
+    font-weight: 600 !important;
+}
+
+.flex-dialog {
+    display: flex !important;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.mat-input-narrow {
+    width: 180px;
+    flex-grow: 1;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.mat-input-wide {
+    width: 360px;
+    flex-grow: 2;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.mat-input-full {
+    width: 100%;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.favorite-icon {
+    vertical-align: middle;
+    color:#DC143C;
+}
