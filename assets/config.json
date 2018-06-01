@@ -1,6 +1,0 @@
-{
-    "endpoints": {
-        "admin": "http://localhost:8060/",
-        "api": "http://env-3295748.hidora.com/"
-    }
-}

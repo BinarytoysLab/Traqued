@@ -1,0 +1,13 @@
+{
+    "routes": {
+        "tracks": "api/tracks",
+        "customers": "api/customers",
+        "error404": "404"
+    },
+    "endpoints": {
+        "admin": "http://localhost:8060/",
+        "api": "http://localhost:8060/"
+    },
+    "snackBarDuration": 3000,
+    "repositoryURL": "https://github.com/binarytoys-lab/racer-admin"
+}
