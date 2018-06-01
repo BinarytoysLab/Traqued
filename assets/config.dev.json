@@ -8,6 +8,7 @@
         "admin": "http://localhost:8060/",
         "api": "http://localhost:8060/"
     },
+    "votesLimit": 3,
     "snackBarDuration": 3000,
     "repositoryURL": "https://github.com/binarytoys-lab/racer-admin"
 }
