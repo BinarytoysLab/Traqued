@@ -130,6 +130,7 @@
     "custom": "Custom",
     "lastYear": "Last year",
     "thisYear": "This year",
-    "time2date": "All time"
+    "time2date": "All time",
+    "enterCustomDates": "Define dates range"
 
 }
