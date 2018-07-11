@@ -1,16 +1,16 @@
 {
-  "home": "Home",
-  "dashboard": "Dashboard",
-  "clients": "Clients",
-  "trackboxApp": "Traqued",
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "clients": "Clients",
+    "trackboxApp": "Traqued",
     "trackboxAppTitle": "Traqued",
     "findCustomer": "Find Customer",
     "update": "update",
     "login": "Login",
     "register": "Register",
     "forgetPassword": "Forgot password?",
-    "loginTitle": "Please login",
-    "loginSubtitle": "to Track Box",
+    "loginTitle": "Login",
+    "loginSubtitle": "to Traqued",
     "registrationTitle": "Registration",
     "email": "E-mail",
     "password": "Password",
@@ -30,7 +30,7 @@
     "requestNotFound": "Request for password change not found, please try again.",
     "passChangeRequest": "Request successfully sent",
     "passChangeDesription": "Password change request was successfully sent. Please check your email and follow received instructions.",
-    "reqPassSubject": "Request of password change for Track Box service",
+    "reqPassSubject": "Request of password change for Traqued service",
     "reqPassMsg": "Please click on following link and change your password\n\n{{value}}\n",
     "tracksList": "Tracks",
     "import": "Import",
@@ -131,6 +131,9 @@
     "lastYear": "Last year",
     "thisYear": "This year",
     "time2date": "All time",
-    "enterCustomDates": "Define dates range"
+    "enterCustomDates": "Define dates range",
+    "enter_device_code": "Enter login code from your device",
+    "code_from_device": "Code from device",
+    "device_code_find": "Where to find a code from device?"
 
 }
