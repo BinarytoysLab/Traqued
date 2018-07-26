@@ -24,7 +24,7 @@
     "samePassword": "Passwords should be the same!",
     "newPassRequest": "To reset your password, please enter your email address and select the 'Request Password' button. You will receive an email asking you to verify that you requested a password reset. You must select that link to confirm your request. Once you have completed this process, you will jump to the page, where you can enter your new password.",
     "userCreated": "new user {{value}} created",
-    "loginPassIncorrect": "Email or password is incorrect",
+    "loginPassIncorrect": "Email, password or code is incorrect",
     "userNotFound": "User not found",
     "saveNewPass": "save new password",
     "requestNotFound": "Request for password change not found, please try again.",
